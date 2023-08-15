@@ -8,4 +8,4 @@
 
 <p><img align="left" src="https://github-pri-readme-stats.vercel.app/api/top-langs?username=kiaren-kaizen&show_icons=true&locale=en&layout=compact&exclude_repo=github-pri-readme-stats" alt="kiaren-kaizen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-pri-readme-stats.vercel.app/api?username=kiaren-kaizen&show_icons=true&include_all_commits=true&rank_icon=percentile&locale=en&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues" alt="kiaren-kaizen" /></p>
+<p>&nbsp;<img align="center" src="https://github-pri-readme-stats.vercel.app/api?username=kiaren-kaizen&show_icons=true&include_all_commits=true&locale=en&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues" alt="kiaren-kaizen" /></p>
