@@ -47,4 +47,3 @@
   <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120">
   <img src="https://images.credly.com/size/340x340/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" width="120">
 </div>
-## 📈 Contribution Activity
